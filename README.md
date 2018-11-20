@@ -8,8 +8,8 @@
 
 | Date | Discussion Paper | Presenter |
 |------|--------------|-----------|
-| Nov 14 | [Computational and analytical challenges in single-cell transcriptomics](https://www.nature.com/articles/nrg3833) | Jason Xu |
-| Nov 28 | [Batch effects in single-cell Rna-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091) | Jordan Bryan |
+| Nov 14 | [Computational and analytical challenges in single-cell transcriptomics (Stegle et al)](https://www.nature.com/articles/nrg3833) | Jason Xu |
+| Nov 28 | [Batch effects in single-cell Rna-sequencing data are corrected by matching mutual nearest neighbors (Haghbervi et al)](https://www.nature.com/articles/nbt.4091) | Jordan Bryan |
 
 
 
